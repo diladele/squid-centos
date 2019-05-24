@@ -29,7 +29,7 @@ To see it in action, have a look at [Virtual Appliance ESXi/Hyper-V](https://www
 **Update Existing Web Safety Nodes**
 ------------------------------------
 
-If you have Web Safety 7.0 up and running and experience errors like described in https://github.com/diladele/websafety-issues/issues/1141 then please use latest Ubuntu 18 LTS based virtual appliance from https://www.diladele.com/virtual_appliance.html - this error is fixed there. But if you must continue using CentOS 7 please read the [Web Safety CentOS 7 updated procedure](websafety.md).
+If you have Web Safety 7.0 up and running and experience errors like described in https://github.com/diladele/websafety-issues/issues/1141 then please use latest Ubuntu 18 LTS based virtual appliance from https://www.diladele.com/virtual_appliance.html - this error is fixed there. But if you must continue using CentOS 7 please read the [Web Safety CentOS 7 update procedure](websafety.md).
 
 **Help**
 --------
