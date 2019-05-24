@@ -21,6 +21,7 @@ Install new packages RPM packages.
 And restore configuration.
 
     cp /etc/squid/squid.conf.rpmsave  /etc/squid/squid.conf
+    chmod 644 /etc/squid/squid.conf
 
 Final step is to reboot the Web Safety node and see if negotiate errors go away and also see if the filtering works.
 
