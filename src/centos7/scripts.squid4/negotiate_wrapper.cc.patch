@@ -1,0 +1,11 @@
+--- src/auth/negotiate/wrapper/negotiate_wrapper.cc	2019-02-19 03:46:22.000000000 +0100
++++ src/auth/negotiate/wrapper/negotiate_wrapper.cc.new	2019-05-23 22:21:59.899800850 +0200
+@@ -185,7 +185,7 @@
+                     LogTime(), PROGRAM, buf + 3, (int) length);
+ 
+         safe_free(token);
+-        if (!(token = static_cast<uint8_t *>(xmalloc(length)))) {
++        if (!(token = static_cast<uint8_t *>(xmalloc(length+1)))) {
+             fprintf(stderr, "%s| %s: Error allocating memory for token\n", LogTime(), PROGRAM);
+             return 1;
+         }
