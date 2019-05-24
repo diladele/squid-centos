@@ -22,7 +22,7 @@ In case you need a high quality HTTP(S) traffic filtering solution, take a look 
 
 Web Safety for Squid Proxy is an ICAP web filtering server that integrates with Squid proxy server and provides rich content and web filtering functionality to sanitize Internet traffic passing into an internal home/enterprise network. It may be used to block illegal or potentially malicious file downloads, remove annoying advertisements, prevent access to various categories of web sites and block resources with adult/explicit content.
 
-To see it in action, have a look at [Virtual Appliance ESXi/Hyper-v](https://www.diladele.com/virtual_appliance.html), [deploy in Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/diladele.websafety?tab=Overview) or [deploy in Amazon AWS](https://aws.amazon.com/marketplace/pp/B07KJHLHKC)
+To see it in action, have a look at [Virtual Appliance ESXi/Hyper-V](https://www.diladele.com/virtual_appliance.html), [deploy in Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/diladele.websafety?tab=Overview) or [deploy in Amazon AWS](https://aws.amazon.com/marketplace/pp/B07KJHLHKC)
 
 **Help**
 --------
