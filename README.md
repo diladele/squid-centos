@@ -26,6 +26,11 @@ Web Safety for Squid Proxy is an ICAP web filtering server that integrates with 
 
 To see it in action, have a look at [Virtual Appliance ESXi/Hyper-V](https://www.diladele.com/virtual_appliance.html), [deploy in Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/diladele.websafety?tab=Overview) or [deploy in Amazon AWS](https://aws.amazon.com/marketplace/pp/B07KJHLHKC)
 
+**Update Existing Web Safety Nodes**
+------------------------------------
+
+If you have Web Safety 7.0 up and running and experience errors like described in https://github.com/diladele/websafety-issues/issues/1141 then please use latest Ubuntu 18 LTS based virtual appliance from https://www.diladele.com/virtual_appliance.html - this error is fixed there. But if you must continue using CentOS 7 please read the [Web Safety CentOS 7 updated procedure](websafety.md).
+
 **Help**
 --------
 
