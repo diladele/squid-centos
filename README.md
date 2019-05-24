@@ -15,7 +15,9 @@ To rebuild the Squid 4 on your instance of CentOS 7, download scripts from src/c
     # bash 02_tools.sh
     $ bash 03_build.sh
     # bash 04_install.sh
-    
+
+You should now have installed the recompiled Squid on the build machine. If needed, copy the rebuilt RPMs from `~/rpmbuild/RPMS/x86_64` to your target machine and install them one by manually.
+  
 **Web Filter for Squid using ICAP**
 -----------------------------------
 In case you need a high quality HTTP(S) traffic filtering solution, take a look at our project - [**Web Safety**](https://www.diladele.com). 
